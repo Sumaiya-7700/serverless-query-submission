@@ -1,0 +1,4 @@
+{
+  "httpMethod": "POST",
+  "body": "{\"name\": \"Alice Smith\", \"email\": \"alice@example.com\", \"mobileno\": \"+15559876543\", \"address\": \"742 Evergreen Terrace\", \"query\": \"I would like a 3-tier chocolate truffle wedding cake for June 15th with floral decorations.\"}"
+}
